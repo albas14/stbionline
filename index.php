@@ -94,8 +94,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <div class="w3-half w3-margin-bottom">
         <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
           <li class="w3-dark-grey w3-xlarge w3-padding-32">Anggota 1</li>
-          <li class="w3-padding-16">15.01.53.0064</li>
-          <li class="w3-padding-16">Arif Budi Setiawan</li>
+          <li class="w3-padding-16">14.01.53.0044</li>
+          <li class="w3-padding-16">Muhamad Ali Basri</li>
           <li class="w3-padding-16">Fakultas Teknologi Informasi</li>
           <li class="w3-padding-16">S1-Teknik Informatika</li>
           
@@ -105,8 +105,19 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <div class="w3-half">
         <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
           <li class="w3-dark-grey w3-xlarge w3-padding-32">Anggota 2</li>
-          <li class="w3-padding-16">15.01.53.0081</li>
-          <li class="w3-padding-16">Saiful Budi Yanto</li>
+          <li class="w3-padding-16">14.01.53.0007</li>
+          <li class="w3-padding-16">Wella Pudia Gaszella</li>
+          <li class="w3-padding-16">Fakultas Teknologi Informasi</li>
+          <li class="w3-padding-16">S1-Teknik Informatika</li>
+         
+        </ul>
+      </div>
+      
+       <div class="w3-half">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">Anggota 2</li>
+          <li class="w3-padding-16">14.01.53.0123</li>
+          <li class="w3-padding-16">CATUR SEPTIAWAN</li>
           <li class="w3-padding-16">Fakultas Teknologi Informasi</li>
           <li class="w3-padding-16">S1-Teknik Informatika</li>
          
